@@ -16,7 +16,7 @@
 -    Automating SSH connections with Paramiko.
 -    Running commands on remote servers.
 -    Practice exercises and examples:
-     -   Example: Using Paramiko to create a secure remote backup solution.
+ -   Example: Using Paramiko to create a secure remote backup solution.
 
 ## Python Libraries for DevOps (Part 2)
 -  Using Fabric for remote task automation.
