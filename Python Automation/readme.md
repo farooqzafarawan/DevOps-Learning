@@ -23,7 +23,7 @@
 -  AWS automation with Boto3.
 -  Managing EC2 instances, S3 buckets, and more.
 -  Practice exercises and examples:
-     -   Example: Creating a Fabric script for deploying applications to remote servers.
+ -   Example: Creating a Fabric script for deploying applications to remote servers.
 
 ## Working with RESTful APIs
 -    Introduction to RESTful APIs.
