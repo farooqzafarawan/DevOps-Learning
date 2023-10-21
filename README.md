@@ -7,4 +7,8 @@ This repo will include introduction of DevOps and related major topics along wit
 - Docker
 - Ansible
 - CI/CD (Continuous Integration and Continuous Deployment)
-- Monitoring Tools, Cloud Computing (AWS, Azure), Python 
+- Monitoring Tools, Cloud Computing (AWS, Azure), Python
+- Python for Automation
+- AWS Services Overview
+- AWS Databases
+- AWS CDK
