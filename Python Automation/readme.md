@@ -1,11 +1,15 @@
 # Python for Automation
 ## Python Basics
+- Python Variables and Datatypes
+- Strings
+- Lists
+- Dictionary
 
 ## Functions and Modules (Part 2)
-    Advanced function topics (recursion, lambda functions).
-    Function libraries and built-in functions.
-    Practice exercises and examples:
-        Example: Developing a library of custom functions for DevOps automation.
+- Advanced function topics (recursion, lambda functions).
+- Function libraries and built-in functions.
+- Practice exercises and examples:
+  -  Example: Developing a library of custom functions for DevOps automation.
 
 ## Python Libraries for DevOps (Part 1)
 -    Introduction to external libraries like Paramiko, Fabric, and Boto3.
