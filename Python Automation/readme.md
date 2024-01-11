@@ -30,7 +30,7 @@
 -    Making HTTP requests using Python.
 -    Parsing JSON responses and error handling.
 -    Practice exercises and examples:
- -      Example: Developing a script to monitor RESTful API endpoints for your DevOps tools.
+ - Example: Developing a script to monitor RESTful API endpoints for your DevOps tools.
 
 ## Data Serialization and Configuration Files
 -   Serializing and deserializing data (JSON, YAML).
